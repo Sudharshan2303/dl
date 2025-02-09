@@ -1,0 +1,5 @@
+setuptools
+streamlit
+tensorflow
+pillow
+numpy
